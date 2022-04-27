@@ -1,1 +1,3 @@
-# Graphics-Class-2021-Terrain-Project
+# Graphics-Class-2020-Terrain-Project
+
+by Youssef Bouhadiba and Zeus Borrego, Swarthmore College
